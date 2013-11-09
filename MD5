@@ -1,4 +1,5 @@
-030d435c4e83f595d2151b3643940010 *DESCRIPTION
+42dc258b845de8bb12bd3720f18108a8 *CHANGES
+89218704e32580411a63de95357996e2 *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 10e11c898a187fb24f19ac3b82a4dad1 *R/cor.by.class.R
 33f36c7fbbd2a5220f11b2060b6769a2 *R/create.CCM.R
@@ -6,7 +7,7 @@
 6fc2a6a0c4f800b91db3ccccb1af97a9 *R/predict.CCM.R
 4cf6d07c4ac6eadcbc26fae7f5141cfc *data/data.expr.rda
 4685dd6e8d99f44eaa494e37f89b581e *data/data.gender.rda
-7ca45ec091bd6544091577d234bc6da4 *man/CCM-package.Rd
+738a5b0be4a4144e758338f4d5e36c24 *man/CCM-package.Rd
 ab894b6695aa02dad068d976a7354752 *man/cor.by.class.Rd
 7feee0bddaf9f4da3c54b19ddcf48c5a *man/create.CCM.Rd
 a38e131e72aeb1a1bdb8602f59b7e227 *man/data.expr.Rd
