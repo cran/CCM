@@ -1,5 +1,9 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
+# NAMESPACE
 
-# Export all names
-exportPattern(".")
+importFrom("graphics", "boxplot")
+importFrom("stats", "cor")
+
+S3method(predict, CCM)
+S3method(plot, CCM)
+export(create.CCM)
+export(cor.by.class)

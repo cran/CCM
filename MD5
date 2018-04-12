@@ -1,13 +1,13 @@
-42dc258b845de8bb12bd3720f18108a8 *CHANGES
-89218704e32580411a63de95357996e2 *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+7c3e81a08ba7025eb958bb35d271a1ab *CHANGES
+29b8f603d9f396e4608af8cad0a7f0e0 *DESCRIPTION
+a0ddf80e5a3eecdd9bf31352ce5da911 *NAMESPACE
 10e11c898a187fb24f19ac3b82a4dad1 *R/cor.by.class.R
 33f36c7fbbd2a5220f11b2060b6769a2 *R/create.CCM.R
 1cbc9b59fd29a7a651d09d389863fd2c *R/plot.cors.R
 6fc2a6a0c4f800b91db3ccccb1af97a9 *R/predict.CCM.R
 4cf6d07c4ac6eadcbc26fae7f5141cfc *data/data.expr.rda
 4685dd6e8d99f44eaa494e37f89b581e *data/data.gender.rda
-738a5b0be4a4144e758338f4d5e36c24 *man/CCM-package.Rd
+5ac3ee818a7e4a598ff524a6346f4c96 *man/CCM-package.Rd
 ab894b6695aa02dad068d976a7354752 *man/cor.by.class.Rd
 7feee0bddaf9f4da3c54b19ddcf48c5a *man/create.CCM.Rd
 a38e131e72aeb1a1bdb8602f59b7e227 *man/data.expr.Rd
